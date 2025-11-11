@@ -1,0 +1,3 @@
+What I've Learned So Far
+
+I've learned about GitHub repository management, branching, pull requests, and collaboration workflows. Understanding how to work with both the web interface and command line git commands has been valuable.
